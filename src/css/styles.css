@@ -1,0 +1,13 @@
+.currency-class{
+    margin: 50px;
+}
+.inputClass{
+    height: 50px;
+    width:400px;
+    font-size: 25px;
+    margin: 10px;
+    border-width: 2px solid black;
+}
+.selectClass{
+    width: 80px;
+}
